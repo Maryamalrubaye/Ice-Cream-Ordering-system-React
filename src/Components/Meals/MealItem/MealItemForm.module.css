@@ -1,12 +1,15 @@
 .form {
   text-align: right;
 }
+.form label {
+  color: #264d61;
+}
 
 .form button {
   font: inherit;
   cursor: pointer;
-  background-color: #264d61;;
-  border: 1px solid #264d61;;
+  background-color: #264d61;
+  border: 1px solid #264d61;
   color: white;
   padding: 0.25rem 2rem;
   border-radius: 20px;
